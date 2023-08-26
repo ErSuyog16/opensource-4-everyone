@@ -128,3 +128,5 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+- [Suyog Pokale](https://github.com/ErSuyog16)
+  <p>Bio: FullStack developer, Competative Coder, Machine Learning enthusiast</p>
